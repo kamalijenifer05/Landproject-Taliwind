@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       {/* Navbar */}
-      <div className="container mx-auto bg-purple-300">
+      <div className="container mx-auto">
         <nav className="flex justify-between p-3">
           <div className="flex items-center gap-2 text-2xl font-bold text-indigo-900">
             <img
