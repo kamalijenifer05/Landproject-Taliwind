@@ -8,8 +8,11 @@ const pop = Poppins({
 }); 
 
 export const metadata: Metadata = {
-  title: " 🏗 Construction ",
+  title: "Construction ",
   description: "Welcome to our page...",
+  icons: {
+    icon: "images/team-building.png"
+  }
 };
 
 export default function RootLayout({
